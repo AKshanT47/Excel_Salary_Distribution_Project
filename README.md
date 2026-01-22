@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Excel Dashboard for Job Market Salary Analysis</b><br>
-  Interactive • Visual • Resume-Ready
+  Interactive • Visual 
 </p>
 
 ---
@@ -80,4 +80,3 @@ This project converts raw job market data into **actionable insights** using Exc
 
 ---
 
-## 📂 Repository Structure
